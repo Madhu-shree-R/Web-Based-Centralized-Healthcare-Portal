@@ -188,8 +188,6 @@ The following video demonstrates the working application and its major healthcar
 
 **Project Demo Video:**
 
-https://github.com/user-attachments/assets/9e0ffda7-5918-4cac-a92c-61b87a732316
-
 [▶️ Open the Project Demo Video](https://github.com/user-attachments/assets/9e0ffda7-5918-4cac-a92c-61b87a732316)
 
 ---
