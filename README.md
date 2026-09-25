@@ -192,20 +192,6 @@ The following video demonstrates the working application and its major healthcar
 
 ---
 
-## 📸 Screenshots
-
-Application screenshots can be found in the [`img`](./img) directory.
-
-You can add selected screenshots here as the project is documented further.
-
-Example:
-
-```markdown
-![Login Page](img/1.png)
-![Application Screenshot](img/2.png)
-![Application Screenshot](img/3.png)
-```
-
 ---
 
 ## ▶️ How to Run the Project
